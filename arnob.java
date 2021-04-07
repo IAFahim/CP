@@ -1,7 +1,5 @@
 package com.company;
 
-import swim.math.R;
-
 import java.awt.*;
 import java.io.*;
 import java.util.*;

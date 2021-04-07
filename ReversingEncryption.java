@@ -5,8 +5,8 @@ import java.util.*;
 
 import static java.lang.Math.*;
 
-//public class ReversingEncryption {
-        public class Main {
+public class ReversingEncryption {
+//        public class Main {
     public static char str[];
 
     public static void reverse(int start, int n) {
